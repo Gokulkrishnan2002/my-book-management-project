@@ -1,0 +1,58 @@
+.container {
+    margin: 20px auto;
+    width: 90%;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .card-title {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 300px;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+  }
+  
+  .divbtn {
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .btn {
+    margin-right: 5px;
+  }
+
+  body{
+    background-image: url(D:\React\BookStore\project-8\assets\pexels-juan-pablo-serrano-arenas-877971.jpg);
+    background-size: cover;
+    height: fit-content;
+    padding: 30px;
+  }
+  
+  .heading{
+    font-weight: bold;
+  }

@@ -1,0 +1,20 @@
+{
+  "book": [
+    {
+      "Title": "Hello",
+      "Author": "Mr.Author",
+      "Publisher": "Mr.Publisher",
+      "NoOfCopies": "3",
+      "Cost": "500",
+      "id": "1"
+    },
+    {
+      "Title": "Julius Caesar",
+      "Author": "William Shakespeare",
+      "Publisher": "First Folio",
+      "NoOfCopies": "98",
+      "Cost": "564",
+      "id": "4a28"
+    }
+  ]
+}
