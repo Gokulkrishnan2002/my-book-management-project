@@ -1,0 +1,30 @@
+.login-container{
+
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 4%;
+    line-height: 25px;
+    border-radius: 20px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+.login{
+    color: black;
+    opacity: 200%;
+}
+
+button{
+    border-radius: 5px;
+}
+
+.login-component{
+opacity: 200%;
+    
+}
